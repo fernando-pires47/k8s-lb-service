@@ -1,8 +1,11 @@
+# k8s LB mechanism
+Simple commands to apply k8s infrastructure using kind.
+
 ## Dependencies
 
-. Docker
-. Kind
-. Kubectl
+* Docker
+* Kind
+* Kubectl
 
 # Install Resources
 
