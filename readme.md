@@ -1,4 +1,4 @@
-# k8s LB mechanism
+# Kubernetes simples LB example
 Simple commands to apply k8s infrastructure using kind.
 
 ## Dependencies
