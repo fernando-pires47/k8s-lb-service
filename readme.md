@@ -7,7 +7,7 @@ Simple commands to apply k8s infrastructure using kind.
 * Kind
 * Kubectl
 
-# Install Resources
+# Install resources
 
 ### Create cluster
 
